@@ -1,0 +1,12 @@
+DATASETS_DIR='datasets/' 
+URL='https://www.openml.org/data/get_csv/16826755/phpMYEkMl'
+RETRIEVED_DATA='raw-data.csv'
+
+DROP_COLS=['name','ticket','home','boat','body','cabin','index']
+REPLACE_NAN=['age','sibsp','parch','ticket','fare','embarked']
+FILEDS_NUMBER=['age','sibsp','parch','fare']
+ONE_HOT_ENCODER=['sex','title','embarked']
+TARGET='survived'
+SPLIT_TEST=0.2
+
+ENDPOINT_BACKEND='http://127.0.0.1:8000'

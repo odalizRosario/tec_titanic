@@ -1,0 +1,10 @@
+INFO: 2022-12-07 00:17:23,917|main|Front-end is all ready to go!
+INFO: 2022-12-07 00:27:51,540|main|Front-end is all ready to go!
+INFO: 2022-12-07 00:41:51,681|main|Checking health: "Iris classifier is all ready to go!"
+INFO: 2022-12-07 00:41:59,705|main|Checking health: "Iris classifier is all ready to go!"
+DEBUG: 2022-12-07 00:54:06,817|main|Incoming input in the front end: {}
+DEBUG: 2022-12-07 00:58:32,177|main|Incoming input in the front end: {'pclass': 1, 'name': 'Duff Gordon', 'sex': 'Sir. Cosmo Edmund (Mr Morgan)', 'age': 'male', 'sibsp': 49, 'parch': 1, 'ticket': 0, 'fare': 'PC 17485', 'cabin': '56.9292', 'embarked': 'A20', 'boat': 'C', 'body': '1', 'home': 'London / Paris'}
+DEBUG: 2022-12-07 01:00:00,064|main|Incoming input in the front end: {'pclass': 1, 'name': 'Sir. Cosmo Edmund (Mr Morgan)', 'sex': 'male', 'age': 49, 'sibsp': 1, 'parch': 0, 'ticket': 'PC 17485', 'fare': '56.9292', 'cabin': 'A20', 'embarked': 'C', 'boat': '1', 'body': '?', 'home': 'London / Paris'}
+DEBUG: 2022-12-07 01:00:36,022|main|Incoming input in the front end: {'pclass': 1, 'name': 'Sir. Cosmo Edmund (Mr Morgan)', 'sex': 'male', 'age': 49, 'sibsp': 1, 'parch': 0, 'ticket': 'PC 17485', 'fare': '56.9292', 'cabin': 'A20', 'embarked': 'C', 'boat': '1', 'body': '?', 'home': 'London / Paris'}
+DEBUG: 2022-12-07 01:04:12,060|main|Incoming input in the front end: {'pclass': 1, 'name': 'Sir. Cosmo Edmund (Mr Morgan)', 'sex': 'male', 'age': 49, 'sibsp': 1, 'parch': 0, 'ticket': 'PC 17485', 'fare': '56.9292', 'cabin': 'A20', 'embarked': 'C', 'boat': '1', 'body': '?', 'home': 'London / Paris'}
+DEBUG: 2022-12-07 01:04:25,204|main|Incoming input in the front end: {'pclass': 1, 'name': 'Sir. Cosmo Edmund (Mr Morgan)', 'sex': 'female', 'age': 49, 'sibsp': 1, 'parch': 0, 'ticket': 'PC 17485', 'fare': '56.9292', 'cabin': 'A20', 'embarked': 'C', 'boat': '1', 'body': '?', 'home': 'London / Paris'}

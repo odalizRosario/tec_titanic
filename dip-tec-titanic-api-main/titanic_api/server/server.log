@@ -1,0 +1,10 @@
+INFO: 2022-12-07 00:41:12,135|main|Servers is all ready to go!
+INFO: 2022-12-07 00:41:15,470|main|Servers is all ready to go!
+INFO: 2022-12-07 00:41:51,680|main|Servers is all ready to go!
+INFO: 2022-12-07 00:41:59,703|main|Servers is all ready to go!
+DEBUG: 2022-12-07 01:00:00,069|main|Incoming titanic features to the server: pclass=1 name='Sir. Cosmo Edmund (Mr Morgan)' sex='male' age=49 sibsp=1 parch=0 ticket='PC 17485' fare='56.9292' cabin='A20' embarked='C' boat='1' body='?' home='London / Paris'
+DEBUG: 2022-12-07 01:00:36,025|main|Incoming titanic features to the server: pclass=1 name='Sir. Cosmo Edmund (Mr Morgan)' sex='male' age=49 sibsp=1 parch=0 ticket='PC 17485' fare='56.9292' cabin='A20' embarked='C' boat='1' body='?' home='London / Paris'
+DEBUG: 2022-12-07 01:04:12,064|main|Incoming titanic features to the server: pclass=1 name='Sir. Cosmo Edmund (Mr Morgan)' sex='male' age=49 sibsp=1 parch=0 ticket='PC 17485' fare='56.9292' cabin='A20' embarked='C' boat='1' body='?' home='London / Paris'
+DEBUG: 2022-12-07 01:04:12,086|main|Outgoing classification from the server: <starlette.responses.JSONResponse object at 0x000001F3F52066A0>
+DEBUG: 2022-12-07 01:04:25,208|main|Incoming titanic features to the server: pclass=1 name='Sir. Cosmo Edmund (Mr Morgan)' sex='female' age=49 sibsp=1 parch=0 ticket='PC 17485' fare='56.9292' cabin='A20' embarked='C' boat='1' body='?' home='London / Paris'
+DEBUG: 2022-12-07 01:04:25,229|main|Outgoing classification from the server: <starlette.responses.JSONResponse object at 0x000001F3F5206730>
